@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KHOONI_MANDALI-P1c8.aternos.me",
-    "port": 42328,
+    "ip": "KHOONI_MANDALI.aternos.me",
+    "port": 58490,
     "version": "",
     "try-creative": false
   },
